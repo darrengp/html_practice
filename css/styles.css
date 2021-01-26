@@ -1,0 +1,14 @@
+body {
+  background-color: grey;
+}
+
+div {
+  border: 1px solid black;
+  margin: 20px;
+}
+
+span {
+  border: 1px solid red;
+  margin: 20px;
+  display: inline-block;
+}
